@@ -8,7 +8,7 @@ def speak_to_grandma(phrase)
   # 2) If you shout, she can hear you (or at least she
   # thinks so) and yells back 'NO, NOT SINCE 1938!'
   elsif phrase == phrase.upcase
-    return 'I LOVE YOU TOO PUMPKIN!'
+    return 'NO, NOT SINCE 1938!'
 
   # 1) Whatever you say to grandma, she should respond
   # with 'HUH?! SPEAK UP, SONNY!' unless you shout it
